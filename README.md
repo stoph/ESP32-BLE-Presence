@@ -1,0 +1,1 @@
+My current setup uses a [Xiaomi Mi Band 5](https://amzn.to/3rdBexL). make sure you enable Detection do the device is always discoverable.
