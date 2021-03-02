@@ -4,5 +4,3 @@ config.h
 
 # Directories
 .DS_Store
-
-config.h
