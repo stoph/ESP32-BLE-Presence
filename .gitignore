@@ -1,2 +1,7 @@
-.DS_Store
+# Files
+.vscode
 config.h
+
+# Directories
+.DS_Store
+
